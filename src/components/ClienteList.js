@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-
+//duis
 function ClienteList() {
   const [clientes, setClientes] = useState([]);
   const [error, setError] = useState(null);
