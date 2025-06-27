@@ -1,3 +1,4 @@
+// Panel-js
 import React from "react";
 
 function Panel() {
